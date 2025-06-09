@@ -2,8 +2,6 @@
 
 ## 👨‍🔬 Computational Biologist | Bioinformatics Expert | Data Analytics Professional
 
-![Profile Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
-
 ---
 
 ### 👋 About Me
