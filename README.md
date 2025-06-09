@@ -83,7 +83,7 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 4. **Scientific Reports (2019):** "Computational Models Accurately Predict Multi-Cell Biomarker Profiles in Inflammation and Cancer"
 5. **Leukemia Research (2019):** "Predicting response to BET inhibitors using computational modeling: A BEAT AML project study"
 
-[View all publications →](https://scholar.google.com/](https://scholar.google.com/citations?user=xSxXsdAAAAAJ&hl=en&oi=ao)
+[View all publications →](https://scholar.google.com/citations?user=xSxXsdAAAAAJ&hl=en&oi=ao)
 
 ---
 
