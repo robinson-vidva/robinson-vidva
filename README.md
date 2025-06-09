@@ -16,27 +16,27 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 ---
 
 ### 🎓 Education
-- **Master of Science (MS) - Data Analytics** | Western Governors University (2024-2025)
-- **Master of Business Administration (MBA) - Project Management** | Sikkim Manipal University (2012-2020)
-- **Bachelor of Technology (B.Tech.) - Biotechnology** | Bharathidasan University (2003-2007)
+- **Master of Science (MS) - Data Analytics** | Western Governors University, USA (2024-2025)
+- **Master of Business Administration (MBA) - Project Management** | Sikkim Manipal University, India (2012-2020)
+- **Bachelor of Technology (B.Tech.) - Biotechnology** | Bharathidasan University, India (2003-2007)
 
 ---
 
 ### 💼 Professional Experience
 
-#### **Research Technician** | Children's National Hospital (March 2025 - Present)
+#### **Research Technician** | Children's National Hospital, Washington, DC, USA (March 2025 - Present)
 - Integrated multi-omics analyses (bulk RNA-seq, metabolomics, genomics) using Python, R, and SQL
 - Applied DeepLabCut, BSOID, and custom Python scripts for behavioral analysis in mouse models
 - Built ML and statistical models for motor coordination data analysis
 - Analyzed neonatal growth data using Fenton charts with advanced statistical methods
 
-#### **Founder & Computational Biologist** | Digirobi Solutions (2019-2022)
+#### **Founder & Computational Biologist** | Digirobi Solutions, Bengaluru, KA, India (2019-2022)
 - Developed computational biology model for neuropathway analysis using MATLAB
 - Analyzed cancer genomics data and developed web-based workflow, securing 1 patent
 - Co-developed MyVivarium, an open-source cloud app for research animal colony management
 - Provided project-to-product management support for 3+ businesses
 
-#### **Senior Lead Scientist** | Cellworks Research India Private Limited (2007-2019)
+#### **Senior Lead Scientist** | Cellworks Research India Private Limited, Bengaluru, KA, India (2007-2019)
 - Developed molecular biology and cell signaling models for disease mechanisms
 - Created comprehensive autoimmune disease model involving 8 cell types
 - Built cancer drug/therapeutic models and genomics database with 500+ cancer cell lines
