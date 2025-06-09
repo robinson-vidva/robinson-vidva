@@ -75,7 +75,7 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 
 ---
 
-### 📚 Selected Publications (7 Total)
+### 📚 Recent Publications
 
 1. **Frontiers in Immunology (2025):** "Eph/Ephrin-Mediated Immune Modulation: A Potential Therapeutic Target for Skin Cancer"
 2. **Computational and Structural Biotechnology Journal (2025):** "MyVivarium: A cloud-based lab animal colony management application with real-time ambient sensing"
