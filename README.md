@@ -92,7 +92,7 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 1. **US11478444B2 (2022):** Use of scientifically matched plant supplements combined with antineoplastic compounds for hematological malignancies
 2. **US10098880B2 (2018):** Combination therapy for treating cancer caused by PTEN/TP53 aberrations
 
-[View all patents →]([https://patents.google.com/?inventor=Robinson+Vidva&sort=new))
+[View all patents →]([https://patents.google.com/?inventor=Robinson+Vidva&sort=new])
 
 ---
 
