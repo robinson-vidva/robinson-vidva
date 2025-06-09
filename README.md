@@ -57,7 +57,6 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 
 **Programming & Tools:**
 - Python, R, SQL, MATLAB, C, C++, HTML/CSS/JS, PHP, Unix Shell
-- Tableau, VS Code, AWS
 - DeepLabCut, BSOID, BONSAI, AWS
 
 **Scientific Expertise:**
