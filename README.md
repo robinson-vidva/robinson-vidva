@@ -87,14 +87,15 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 
 ---
 
-### 🔬 Patents (2 Granted, 3 Published)
+### 🔬 Granted Patents
 
 1. **US11478444B2 (2022):** Use of scientifically matched plant supplements combined with antineoplastic compounds for hematological malignancies
 2. **US10098880B2 (2018):** Combination therapy for treating cancer caused by PTEN/TP53 aberrations
 
+[View all Patents →]([https://patents.google.com/?inventor=Robinson+Vidva&sort=new))
 ---
 
-### 📜 Certifications
+### 📜 Recent Certifications
 - **Advanced Data Modeling** - Western Governors University (2024)
 - **Data Analytics Fundamentals** - Western Governors University (2024)
 - **Data Preparation** - Western Governors University (2024)
@@ -113,7 +114,7 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 Feel free to reach out for collaborations, research discussions, or opportunities in computational biology and bioinformatics!
 
 - 📧 Email: robinson.vidva@gmail.com
-- 💼 LinkedIn: [Robinson Vidva](https://www.linkedin.com/in/robinson-vidva/)
+- 💼 Linktree: [Robinson Vidva](https://linktr.ee/robinson.vidva)
 
 ---
 
