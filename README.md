@@ -83,7 +83,7 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 4. **Scientific Reports (2019):** "Computational Models Accurately Predict Multi-Cell Biomarker Profiles in Inflammation and Cancer"
 5. **Leukemia Research (2019):** "Predicting response to BET inhibitors using computational modeling: A BEAT AML project study"
 
-[View all publications →]([https://scholar.google.com/](https://scholar.google.com/citations?user=xSxXsdAAAAAJ&hl=en&oi=ao))
+[View all publications →](https://scholar.google.com/](https://scholar.google.com/citations?user=xSxXsdAAAAAJ&hl=en&oi=ao)
 
 ---
 
@@ -92,7 +92,7 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 1. **US11478444B2 (2022):** Use of scientifically matched plant supplements combined with antineoplastic compounds for hematological malignancies
 2. **US10098880B2 (2018):** Combination therapy for treating cancer caused by PTEN/TP53 aberrations
 
-[View all patents →]([https://patents.google.com/?inventor=Robinson+Vidva&sort=new])
+[View all patents →](https://patents.google.com/?inventor=Robinson+Vidva&sort=new)
 
 ---
 
