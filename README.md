@@ -11,7 +11,6 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 
 📍 **Location:** Washington, DC, USA  
 📧 **Email:** robinson.vidva@gmail.com  
-📱 **Phone:** (551) 247-2805  
 🔗 **LinkedIn:** [Robinson Vidva](https://www.linkedin.com/in/robinson-vidva/)
 
 ---
@@ -59,7 +58,7 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 **Programming & Tools:**
 - Python, R, SQL, MATLAB, C, C++, HTML/CSS/JS, PHP, Unix Shell
 - Tableau, VS Code, AWS
-- DeepLabCut, BSOID, Papaparse, SheetJS
+- DeepLabCut, BSOID, BONSAI, AWS
 
 **Scientific Expertise:**
 - Mathematical Modeling, Computational Biology, Immunology, Bioinformatics
@@ -84,7 +83,7 @@ Currently, I'm a Research Technician at Children's National Hospital, where I in
 4. **Scientific Reports (2019):** "Computational Models Accurately Predict Multi-Cell Biomarker Profiles in Inflammation and Cancer"
 5. **Leukemia Research (2019):** "Predicting response to BET inhibitors using computational modeling: A BEAT AML project study"
 
-[View all publications →](https://scholar.google.com/)
+[View all publications →]([https://scholar.google.com/](https://scholar.google.com/citations?user=xSxXsdAAAAAJ&hl=en&oi=ao))
 
 ---
 
@@ -115,7 +114,6 @@ Feel free to reach out for collaborations, research discussions, or opportunitie
 
 - 📧 Email: robinson.vidva@gmail.com
 - 💼 LinkedIn: [Robinson Vidva](https://www.linkedin.com/in/robinson-vidva/)
-- 📱 Phone: (551) 247-2805
 
 ---
 
