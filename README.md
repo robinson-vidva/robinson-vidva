@@ -47,7 +47,7 @@ Currently a Research Technician at Children's National Hospital, working on pret
 
 ### Education
 - **Master of Science (MS) — Data Analytics** | Western Governors University, Salt Lake City, UT (07/2024 – 01/2025)
-- **Master of Business Administration (MBA) — Project Management** | Sikkim Manipal University (Distance Education), Gangtok, India (11/2012 – 02/2020)
+- **Master of Business Administration (MBA) — Project Management** | Sikkim Manipal University (Distance Education), Gangtok, India (Completed 2020)
 - **Bachelor of Technology (B.Tech.) — Biotechnology** | Bharathidasan University, Tiruchirappalli, India (07/2003 – 04/2007)
 
 ---
@@ -103,10 +103,4 @@ Team Leadership · People Management · Project Management · Patent Drafting & 
 - **Email:** hello@robinsonvidva.com
 - **Website:** [robinsonvidva.com](https://robinsonvidva.com)
 - **LinkedIn:** [Robinson Vidva](https://www.linkedin.com/in/robinson-vidva/)
-- **GitHub:** [robinson-vidva](https://github.com/robinson-vidva)
 - **Google Scholar:** [Publications](https://scholar.google.com/citations?user=xSxXsdAAAAAJ&hl=en&oi=ao)
-- **ResearchGate:** [Profile](https://www.researchgate.net/profile/Robinson-Vidva)
-
----
-
-*"Advancing translational bioinformatics through multi-omics, AI/ML, and disease biology — connecting computational results to therapy."*
