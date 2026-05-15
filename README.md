@@ -12,7 +12,7 @@ Hi, I'm Robinson Vidva — a Translational Bioinformatics Scientist with 18 year
 Currently a Research Technician at Children's National Hospital, working on preterm cerebellar deficits in NEC, SIDS, and related neurodevelopmental disorders.
 
 **Location:** Silver Spring, Maryland, USA
-**Email:** robinson.vidva@gmail.com
+**Email:** hello@robinsonvidva.com
 **Website:** [robinsonvidva.com](https://robinsonvidva.com)
 **LinkedIn:** [in/robinson-vidva](https://www.linkedin.com/in/robinson-vidva/)
 
@@ -100,7 +100,7 @@ Team Leadership · People Management · Project Management · Patent Drafting & 
 
 ### Connect With Me
 
-- **Email:** robinson.vidva@gmail.com
+- **Email:** hello@robinsonvidva.com
 - **Website:** [robinsonvidva.com](https://robinsonvidva.com)
 - **LinkedIn:** [Robinson Vidva](https://www.linkedin.com/in/robinson-vidva/)
 - **GitHub:** [robinson-vidva](https://github.com/robinson-vidva)
