@@ -1,119 +1,112 @@
 # Robinson Vidva
 
-## Computational Biologist | 18+ Years in Bioinformatics & Multi-Omics Data Analysis
+## Translational Bioinformatics Scientist | 18+ Years in Multi-Omics, AI/ML, and Disease Biology
 
 ---
 
 ### About Me
-Hi, I'm Robinson Vidva, a Computational Biologist with over 18 years of experience in bioinformatics, immunology, neuroscience, oncology, and drug discovery. I specialize in computational biomodel development and biological data analytics. My work has contributed to **7 peer-reviewed publications**, **2 preprints under review**, **14 conference presentations**, **2 granted patents**, and **145+ citations**.
+Hi, I'm Robinson Vidva — a Translational Bioinformatics Scientist with 18 years of experience spanning multi-omics, AI/machine learning, and disease biology across pediatric neurodevelopment, immuno-oncology, and drug discovery. I use transcriptomics, metabolomics, and genomics to investigate disease mechanisms and evaluate therapies, manage teams, draft patent claims, and connect computational results to biology.
 
-Currently, I'm a Research Technician at Children's National Hospital, where I integrate multi-omics analyses to uncover insights into preterm birth-associated neurodevelopmental deficits. I'm also the founder of Digirobi Solutions, where I developed innovative computational biology solutions.
+**Track record:** 5 USPTO patents (2 granted, 3 published applications) · 7 peer-reviewed publications · 2 preprints · 14 conference presentations · 150+ citations.
 
-**Location:** Washington, DC, USA
-**Email:** hello@robinsonvidva.com
+Currently a Research Technician at Children's National Hospital, working on preterm cerebellar deficits in NEC, SIDS, and related neurodevelopmental disorders.
+
+**Location:** Silver Spring, Maryland, USA
+**Email:** robinson.vidva@gmail.com
 **Website:** [robinsonvidva.com](https://robinsonvidva.com)
-
----
-
-### Education
-- **Master of Science (MS) - Data Analytics** | Western Governors University, USA (2024-2025)
-  - Capstone: Regression and clustering analysis of Seoul bike-sharing demand
-- **Master of Business Administration (MBA) - Project Management** | Sikkim Manipal University, India (2012-2020)
-- **Bachelor of Technology (B.Tech.) - Biotechnology** | Bharathidasan University, India (2003-2007) | First Class with Distinction
+**LinkedIn:** [in/robinson-vidva](https://www.linkedin.com/in/robinson-vidva/)
 
 ---
 
 ### Professional Experience
 
-#### **Research Technician** | Children's National Hospital, Washington, DC, USA (March 2025 - Present)
-- Integrated multi-omics analyses (bulk RNA-seq, metabolomics, genomics) using Python, R, and SQL
-- Applied DeepLabCut, BSOID, and custom Python scripts for behavioral analysis in mouse models
-- Built ML and statistical models for motor coordination data analysis
-- Analyzed neonatal growth data using Fenton charts with advanced statistical methods
+#### **Research Technician** | Children's National Hospital, Washington, DC (March 2025 – Present)
+- Conducted multi-omics analyses (RNA-seq, metabolomics, genomics) on mouse and human datasets in Python, R, and SQL to identify DEGs and pathways underlying preterm cerebellar deficits in NEC, SIDS, and related neurodevelopmental disorders.
+- Analyzed behavioral data from 250+ mice using DeepLabCut and BSOID to quantify physical-therapy and enrichment effects in preterm mice.
+- Built statistical and ML predictive models on Erasmus Ladder data from 160 preterm mice to identify gait and cerebellar deficits.
+- Performed statistical analysis on a multi-domain dataset of 200+ preterm infants — clinician-quantified MRI, ultrasound, and neurodevelopmental scores — to characterize NEC trajectories.
 
-#### **Founder & Computational Biologist** | Digirobi Solutions, Bengaluru, KA, India (2019-2022)
-- Developed computational biology model for neuropathway analysis using MATLAB (1 publication)
-- Analyzed cancer genomics data and developed web-based workflow, securing 1 patent
-- Co-developed MyVivarium, an open-source cloud app for research animal colony management (1 first-author publication)
-- Provided project-to-product management support for 3+ businesses
+#### **Founder & Lead Computational Biologist** | Digirobi Solutions, Bengaluru, India (September 2019 – June 2022)
+- Founded a computational biology consultancy with 5+ engagements (3 commercial, 2 academic) across cancer therapeutics and open-source tools.
+- Scoped and built cancer genomics, drug, and nutrition databases through targeted data mining and analysis using open and proprietary tools.
+- Modeled the SRC kinase neuropathway in MATLAB; contributed to 1 peer-reviewed publication on molecular signaling.
+- Analyzed cancer nutrigenomics data; co-invented 1 USPTO-granted patent on a nutraceutical combination for cancer therapy.
+- Co-developed MyVivarium for animal colony management — deployed at 3 partner labs, 200+ mice; published in CSBJ.
+- Delivered 10+ business-analysis projects (reports, dashboards, web workflows) for research clients.
 
-#### **Senior Lead Scientist** | Cellworks Research India Private Limited, Bengaluru, KA, India (2007-2019)
-- Developed molecular biology and cell signaling models (TNF, Interleukin, metabolism) for disease mechanisms
-- Created comprehensive autoimmune disease model involving 8 cell types (3 publications, 5 conference abstracts)
-- Built cancer drug/therapeutic models and genomics database with 500+ cancer cell lines and TCGA data (1 leukemia publication, 7 ASH abstracts)
-- Secured 1 approved patent on drug repurposing and 2 patent applications for RA therapeutics
-- Managed teams of 10+ members in data analytics and computational biology projects
-- Led 25+ training sessions for team development
+#### **Senior Lead Scientist ← Lead Scientist ← Associate Lead Scientist ← Associate Biomodeling Scientist** | Cellworks Life, Bengaluru, India (June 2007 – September 2019)
+- Co-invented 4 USPTO patents — 1 granted (PTEN/TP53 cancer combination therapy) and 3 published applications (2 on rheumatoid arthritis compositions, 1 on a drug-repurposing workflow method); led claim drafting, 10+ prior-art searches, and rebuttals to USPTO examiner objections.
+- Developed digital cancer drug-response models reaching 80%+ correlation with internal predictions across 10+ cancer types including GBM, AML.
+- Modeled disease pathways — including a macrophage cell model spanning 20+ pathways and an 8-cell-type rheumatoid arthritis model validated in vivo — to identify 2 synergistic drug combinations.
+- Constructed cancer-genomics resources — a 500+ cell-line database with IC50 data plus aggregations from TCGA, MSK-IMPACT, and 10+ sources — that powered and improved internal predictive models.
+- Curated 15+ external clinical datasets to train, test, and validate model predictions; results supported multiple peer-reviewed publications.
+- Curated a drug library of ~200 compounds with MOA, PK/PD, and resistance/activity biology supporting internal screening and partnerships.
+- Managed teams of 10+ scientists, set internal QC standards across modeling and validation, and led 25+ training sessions.
 
 ---
 
-### Research Focus Areas
-- Transcriptomics, metabolomics, and genomics integration
-- Neurodevelopmental disorders, particularly preterm birth effects on brain development
-- Immuno-oncology and immune-mediated cancer therapies
-- Autoimmune disease modeling
-- Drug discovery and therapeutic development
-- Behavioral analysis using DeepLabCut and BSOID
+### Education
+- **Master of Science (MS) — Data Analytics** | Western Governors University, Salt Lake City, UT (07/2024 – 01/2025)
+- **Master of Business Administration (MBA) — Project Management** | Sikkim Manipal University (Distance Education), Gangtok, India (11/2012 – 02/2020)
+- **Bachelor of Technology (B.Tech.) — Biotechnology** | Bharathidasan University, Tiruchirappalli, India (07/2003 – 04/2007)
 
 ---
 
 ### Technical Skills
 
+**Computational Biology & Bioinformatics:**
+Multi-Omics Analysis · Systems Biology (pathway modeling) · Mathematical Modeling (ODE-based simulation) · Predictive Modeling (mixed-effects, regression) · Machine Learning · Statistical Analysis · Computational Neuroscience
+
+**Biology & Medicine:**
+Cancer Biology · Cancer Genomics · Cancer Therapeutics · Immunology · Immuno-Oncology · Molecular Biology · Cell Biology · Cell Signaling · Precision Medicine · Drug Discovery · Developmental Neuroscience
+
 **Programming & Tools:**
-- Python, R, SQL, MATLAB, C, C++, Unix Shell, HTML/CSS/JavaScript, PHP
-- Git/GitHub, DeepLabCut, BSOID, BONSAI, Tableau, AWS
+Python · R · SQL · MATLAB · Git/GitHub · AWS · Web Application Deployment (server, DNS, hosting) · Unix Shell · Tableau · DeepLabCut · BSOID
 
-**Scientific Expertise:**
-- Developmental Neuroscience, Immunology, Cancer Biology
-- Multi-omics Analysis (RNA-seq, Metabolomics, Genomics)
-- Mathematical Modeling, Computational Biology, Bioinformatics
-- Precision Medicine, Drug Discovery, Systems Biology
-- Machine Learning & Deep Learning, Predictive Modeling
-
-**Leadership & Soft Skills:**
-- Project Management, Team Leadership, Cross-functional Team Direction
-- Data-driven Decision Making, Scientific Communication
-
----
-
-### Recent Publications
-
-1. **Frontiers in Immunology (2025):** "Eph/Ephrin-Mediated Immune Modulation: A Potential Therapeutic Target for Skin Cancer"
-2. **Computational and Structural Biotechnology Journal (2025):** "MyVivarium: A cloud-based lab animal colony management application with real-time ambient sensing"
-3. **Journal of Neurodevelopmental Disorders (2022):** "Computational analysis of cortical neuronal excitotoxicity in a large animal model of neonatal brain injury"
-4. **Scientific Reports (2019):** "Computational Models Accurately Predict Multi-Cell Biomarker Profiles in Inflammation and Cancer"
-5. **Leukemia Research (2019):** "Predicting response to BET inhibitors using computational modeling: A BEAT AML project study"
-
-[View all publications on Google Scholar](https://scholar.google.com/citations?user=xSxXsdAAAAAJ&hl=en&oi=ao)
+**Leadership & Management:**
+Team Leadership · People Management · Project Management · Patent Drafting & Prosecution Strategy · Scientific Communication
 
 ---
 
 ### Granted Patents
-
-1. **US11478444B2 (2022):** Use of scientifically matched plant supplements combined with antineoplastic compounds for hematological malignancies
-2. **US10098880B2 (2018):** Combination therapy for treating cancer caused by PTEN/TP53 aberrations
+1. **US 11,478,444 B2 (2022):** Plant supplements with antineoplastic compounds for hematological malignancies
+2. **US 10,098,880 B2 (2018):** Drug combination for PTEN/TP53-aberrant cancers
 
 [View all patents](https://patents.google.com/?inventor=Robinson+Vidva&sort=new)
 
 ---
 
-### Recent Certifications
-- **Advanced Data Modeling** - Western Governors University (2024)
-- **Data Analytics Fundamentals** - Western Governors University (2024)
-- **Data Preparation** - Western Governors University (2024)
+### Publications
+
+1. **Frontiers in Immunology (2025):** Eph/Ephrin-Mediated Immune Modulation: A Potential Therapeutic Target for Skin Cancer.
+2. **Computational and Structural Biotechnology Journal (2025):** MyVivarium: A cloud-based lab animal colony management application with real-time ambient sensing.
+3. **Journal of Neurodevelopmental Disorders (2022):** Computational analysis of cortical neuronal excitotoxicity in a large animal model of neonatal brain injury.
+4. **Scientific Reports (2019):** Computational Models Accurately Predict Multi-Cell Biomarker Profiles in Inflammation and Cancer.
+5. **Leukemia Research (2019):** Predicting response to BET inhibitors using computational modeling: A BEAT AML project study.
+6. **Scientific Reports (2014):** Histatin 5 binds to Porphyromonas gingivalis hemagglutinin B (HagB) and alters HagB-induced chemokine responses.
+7. **Scientific Reports (2013):** Defensin DEFB103 bidirectionally regulates chemokine and cytokine responses to a pro-inflammatory stimulus.
+
+[View all publications on Google Scholar](https://scholar.google.com/citations?user=xSxXsdAAAAAJ&hl=en&oi=ao)
+
+---
+
+### Certifications
+- **Data Analytics Fundamentals, Data Preparation, Advanced Data Modeling** — Western Governors University (2024)
+- **Cancer Biology Specialization** — Johns Hopkins University (Coursera, 2023)
+- **Demystifying Biomedical Big Data: A User's Guide** — Georgetown University (edX, 2020)
+- **Drug Development Product Management Specialization** — University of California San Diego (Coursera, 2020)
 
 ---
 
 ### Connect With Me
 
-- **Email:** hello@robinsonvidva.com
+- **Email:** robinson.vidva@gmail.com
 - **Website:** [robinsonvidva.com](https://robinsonvidva.com)
 - **LinkedIn:** [Robinson Vidva](https://www.linkedin.com/in/robinson-vidva/)
 - **GitHub:** [robinson-vidva](https://github.com/robinson-vidva)
 - **Google Scholar:** [Publications](https://scholar.google.com/citations?user=xSxXsdAAAAAJ&hl=en&oi=ao)
 - **ResearchGate:** [Profile](https://www.researchgate.net/profile/Robinson-Vidva)
-- **ORCID:** [Profile](https://orcid.org/0000-0002-1234-5678)
 
 ---
 
-*"Advancing computational biology and biological data analysis innovation through data-driven insights and collaborative research"*
+*"Advancing translational bioinformatics through multi-omics, AI/ML, and disease biology — connecting computational results to therapy."*
