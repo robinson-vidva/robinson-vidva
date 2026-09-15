@@ -14,9 +14,9 @@ Free, open-source, and most run entirely in the browser.
 | [enrichlite](https://robinsonvidva.com/enrichlite/) · [code](https://github.com/robinson-vidva/enrichlite) | Gene-set over-representation analysis in the browser (GO, Reactome, Hallmark) |
 | [drugtargets](https://drugtargets.robinsonvidva.com) · [code](https://github.com/robinson-vidva/drugtargets) | Drug-target exploration and repurposing hypotheses (Open Targets, openFDA) |
 | [neokine](https://robinsonvidva.com/neokine/) · [code](https://github.com/robinson-vidva/neokine) | Client-side pose visualization with simple kinematics |
-| [MyVivarium](https://demo.myvivarium.online) · [code](https://github.com/myvivarium/MyVivarium) | Open-source lab-animal colony management with IoT sensing (CSBJ 2025) |
+| [MyVivarium](https://demo.myvivarium.online) · [code](https://github.com/myvivarium/MyVivarium) | Open-source lab-animal colony management with IoT sensing (CSBJ 2025); [v2 demo](https://demo2.myvivarium.online) · [v2 code](https://github.com/robinson-vidva/MyVivarium-2) |
 
-Work in progress: MyVivarium v2, neokine-labs, istoflow, citelas, SciGenda.
+Work in progress: neokine-labs, istoflow, citelas, SciGenda.
 
 ### Articles
 
