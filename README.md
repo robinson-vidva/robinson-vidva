@@ -15,7 +15,6 @@ Free, open-source, and most run entirely in the browser.
 | [drugtargets](https://drugtargets.robinsonvidva.com) · [code](https://github.com/robinson-vidva/drugtargets) | Drug-target exploration and repurposing hypotheses (Open Targets, openFDA) |
 | [neokine](https://robinsonvidva.com/neokine/) · [code](https://github.com/robinson-vidva/neokine) | Client-side pose visualization with simple kinematics |
 | [MyVivarium](https://demo.myvivarium.online) · [code](https://github.com/myvivarium/MyVivarium) | Open-source lab-animal colony management with IoT sensing (CSBJ 2025) |
-| [behaviarium](https://github.com/robinson-vidva/behaviarium) | DeepLabCut and B-SOiD workflow for mouse three-chamber behavior |
 
 Work in progress: MyVivarium v2, neokine-labs, istoflow, citelas, SciGenda.
 
