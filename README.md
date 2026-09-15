@@ -1,17 +1,17 @@
 # Robinson Vidva
 
-## Translational Bioinformatics Scientist | 18+ Years in Multi-Omics, AI/ML, and Disease Biology
+## Biomedical Data Scientist | 18 Years in Multi-Omics, Machine Learning, and Disease Biology
 
 ---
 
 ### About Me
-Hi, I'm Robinson Vidva — a Translational Bioinformatics Scientist with 18 years of experience spanning multi-omics, AI/machine learning, and disease biology across pediatric neurodevelopment, immuno-oncology, and drug discovery. I use transcriptomics, metabolomics, and genomics to investigate disease mechanisms and evaluate therapies, manage teams, draft patent claims, and connect computational results to biology.
+Hi, I'm Robinson Vidva — a Biomedical Data Scientist with 18 years of experience spanning multi-omics, AI/machine learning, and disease biology across pediatric neurodevelopment, immuno-oncology, and drug discovery. I use transcriptomics, metabolomics, and genomics to investigate disease mechanisms and evaluate therapies, manage teams, draft patent claims, and connect computational results to biology.
 
 **Track record:** 5 USPTO patents (2 granted, 3 published applications) · 7 peer-reviewed publications · 2 preprints · 14 conference presentations · 150+ citations.
 
 Currently a Research Technician at Children's National Hospital, working on preterm cerebellar deficits in NEC, SIDS, and related neurodevelopmental disorders.
 
-**Location:** Silver Spring, Maryland, USA
+**Location:** Washington, DC area
 **Email:** hello@robinsonvidva.com
 **Website:** [robinsonvidva.com](https://robinsonvidva.com)
 **LinkedIn:** [in/robinson-vidva](https://www.linkedin.com/in/robinson-vidva/)
