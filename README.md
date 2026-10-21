@@ -27,7 +27,7 @@ Work in progress: neokine-labs, istoflow, citelas, SciGenda.
 
 ### Research
 
-First author of one and co-author of six further peer-reviewed papers, two preprints, and 14 conference abstracts; named inventor on two patented drug combinations (three grants, US and European) and three published applications. [Google Scholar](https://scholar.google.com/citations?user=xSxXsdAAAAAJ) · [ORCID](https://orcid.org/0000-0002-2604-5448) · [all publications](https://robinsonvidva.com/research.html)
+First author of one and co-author of seven further peer-reviewed papers, one preprint, and 14 conference abstracts; named inventor on two patented drug combinations (three grants, US and European) and three published applications. [Google Scholar](https://scholar.google.com/citations?user=xSxXsdAAAAAJ) · [ORCID](https://orcid.org/0000-0002-2604-5448) · [all publications](https://robinsonvidva.com/research.html)
 
 ### Contact
 
